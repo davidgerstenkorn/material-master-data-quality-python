@@ -1,6 +1,3 @@
-import pandas as pd
-
-
 def check_negative_stock(df):
     return df[df["current_stock"] < 0]
 

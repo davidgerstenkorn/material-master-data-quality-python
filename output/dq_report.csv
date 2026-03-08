@@ -1,0 +1,5 @@
+material_id,issue
+MAT-1006,negative_stock
+MAT-1011,missing_description
+MAT-1009,missing_base_unit
+MAT-1007,missing_lead_time
